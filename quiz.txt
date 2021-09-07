@@ -1,0 +1,32 @@
+Quiz Cpp
+Adrian Jez
+What does 'std' space instruction look like? :
+name usingspace std;
+use usingname std;
+using namespace std;
+use namespace std;
+c
+What type of variables the int type stores? :
+characters
+floating point numbers
+stores nothing
+integers
+d
+How many times will the loop be done: for (int i = -7; i< = 1; i--)
+none 
+9
+8
+inf.
+a
+What function are we going to use to claim a number to an 2-degree?
+abs
+div
+sqrt
+pow
+c
+How many bytes does 'char' use in memory?
+8
+2
+4
+1
+d
